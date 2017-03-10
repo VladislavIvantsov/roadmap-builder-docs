@@ -2,5 +2,5 @@
 
 ## Документация
 
-- [Видение](vision/README.md)
-- [Модель предметной области](vision/README.md)
+- [Видение](/vision/README.md)
+- [Модель предметной области](/domenModel/README.md)
