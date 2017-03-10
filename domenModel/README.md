@@ -1,5 +1,5 @@
 # Roadmap-builder
-[Назад](README.md)
+[Назад](/README.md)
 ## Модель предметной области
 
 ![](/domenModel/roadmap-builder-domen-model.png)
