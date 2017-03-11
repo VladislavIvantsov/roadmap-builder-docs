@@ -2,4 +2,4 @@
 [Назад](README.md)
 ## Модель предметной области
 
-![](domen-model.png)
+![](/domenModel/roadmap-builder-domen-model.png)

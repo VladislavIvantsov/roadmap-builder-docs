@@ -1,5 +1,6 @@
 # Roadmap-builder
 
-## Оглавление
+## Документация
 
 - [Видение](vision/README.md)
+- [Модель предметной области](vision/README.md)
